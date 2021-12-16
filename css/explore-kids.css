@@ -1,0 +1,215 @@
+body {
+  font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+  min-height: 100vh;
+  margin: 0px;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+.main_logo {
+  top: 1%;
+  left: 1%;
+  width: 100px;
+  height: 100px;
+  padding: 0px;
+  border-radius: 25%;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  background-color: #b58e8e;
+}
+
+nav ul {
+  width: max-content;
+  display: inline-flex;
+}
+
+nav li {
+  display: inline-block;
+  padding: 5%;
+  position: relative;
+  left: 900px;
+  font-size: 25px;
+  color: black;
+}
+
+.welcome {
+  text-align: center;
+  padding: 5px;
+}
+
+.explore{
+  width: 1000px;
+  position: absolute;
+  left: 25%;
+  top: 20%;
+}
+
+
+.kreftor{
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  left: 15%;
+  top: 50%;
+  border-radius: 20%;
+}
+
+.kreftor-name{
+  background-color: black;
+  color: red;
+  position: absolute;
+  text-align: center;
+  width: 300px;
+  height: 40px;
+  left: 16%;
+  top: 87%;
+  font-size: 2em;
+}
+
+.kreftor-text{
+  text-align: center;
+  width: 300px;
+  position: absolute;
+  left: 16%;
+  top: 95%;
+  background-color: #e9e9e9d2;
+}
+
+.garry-glass{
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  left: 42%;
+  top: 50%;
+  border-radius: 20%;
+}
+
+.garry-glass-name{
+  background-color: black;
+  color: red;
+  position: absolute;
+  text-align: center;
+  width: 300px;
+  height: 40px;
+  left: 44%;
+  top: 87%;
+  font-size: 2em;
+}
+
+.garry-glass-text{
+  text-align: center;
+  width: 300px;
+  position: absolute;
+  left: 44%;
+  top: 95%;
+  background-color: #e9e9e9d2;
+}
+
+.kevin-and-higgs{
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  left: 70%;
+  top: 50%;
+  border-radius: 20%;
+}
+
+.kelvin-and-higgs-name{
+  background-color: black;
+  color: red;
+  position: absolute;
+  text-align: center;
+  width: 300px;
+  height: 40px;
+  left: 72%;
+  top: 87%;
+  font-size: 2em;
+}
+
+.kelvin-and-higgs-text{
+  text-align: center;
+  width: 300px;
+  position: absolute;
+  left: 72%;
+  top: 95%;
+  background-color: #e9e9e9d2;
+}
+
+
+.cta-visit {
+  background-color: #b58e8e;
+  color: black;
+  font-size: 1em;
+  text-transform: uppercase;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 10px 50px;
+  border-radius: 5px;
+  position: absolute;
+  left: 47%;
+  top: 130%;
+}
+
+
+
+.line-1{
+  height: 1px;
+  background-color: black;
+  width:60%;
+  position: absolute;
+  left: 22%;
+  top: 145%;
+
+}
+
+.bottomlogo{
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 42%;
+  top: 150%;
+}
+
+h3{
+  position: absolute;
+  left: 39%;
+  top: 178%;
+  color: grey;
+  font-size: 2em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.fa-facebook-f{
+  position: absolute;
+  left: 45%;
+  top: 187%;
+  font-size: 2em;
+}
+
+.fa-instagram{
+  position: absolute;
+  left: 50%;
+  top: 187%;
+  font-size: 2em;
+}
+
+.fa-twitter{
+  position: absolute;
+  left: 55%;
+  top: 187%;
+  font-size: 2em;
+}
+
+
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 2em;
+  background-color: #b58e8e;
+  position: relative;
+  left: 0%;
+  top: 1200%;
+}

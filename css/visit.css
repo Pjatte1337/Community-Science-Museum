@@ -1,0 +1,215 @@
+body {
+  font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+  min-height: 100vh;
+  margin: 0px;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+.main_logo {
+  top: 1%;
+  left: 1%;
+  width: 100px;
+  height: 100px;
+  padding: 0px;
+  border-radius: 25%;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  background-color: #b58e8e;
+}
+
+nav ul {
+  display: inline-flex;
+}
+
+nav li {
+  display: inline-block;
+  padding: 5%;
+  position: relative;
+  left: 900px;
+  font-size: 25px;
+  color: black;
+}
+
+.welcome {
+  text-align: center;
+  padding: 5px;
+  position: absolute;
+  left: 5%;
+  top: 17%;
+  font-style: italic;
+}
+
+
+.container{
+  width: 400px;
+  height: 450px;
+  background-color: #89b7e6;
+  position: absolute;
+  left: 71%;
+  top: 15%;
+}
+
+.headliner{
+  width: 300px;
+  height: 400px;
+  position: absolute;
+  left: 2%;
+  top: 2%;
+}
+
+.days{
+  width: 300px;
+  height: 400px;
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  font-size: 1;
+}
+
+.time{
+  width: 300px;
+  height: 400px;
+  position: absolute;
+  left: 60%;
+  top: 15%;
+}
+
+.container-map{
+  width: 1300px;
+  height: 350px;
+  background-color: grey;
+  position: absolute;
+  left: 2%;
+  top: 26%;
+}
+
+.map{
+  width: 1250px;
+  height: 300px;
+  position: absolute;
+  left: 2%;
+  top: 8%;
+}
+
+.admission{
+  position: absolute;
+  left: 15%;
+  top: 80%;
+  font-size: 25px;
+ }
+
+ .admission-text{
+  width: 300px;
+  position: absolute;
+  left: 10%;
+  top: 90%;
+ }
+
+ .accessibility{
+  position: absolute;
+  left: 35%;
+  top: 80%;
+  font-size: 25px;
+ }
+
+ .accessibility-text{
+  width: 300px;
+  position: absolute;
+  left: 30%;
+  top: 90%;
+ }
+
+ .food{
+  position: absolute;
+  left: 55%;
+  top: 80%;
+  font-size: 25px;
+ }
+
+ .food-text{
+  width: 300px;
+  position: absolute;
+  left: 53%;
+  top: 90%;
+ }
+
+ .shops {
+  position: absolute;
+  left: 75%;
+  top: 80%;
+  font-size: 25px;
+ }
+
+ .shops-text{
+  width: 300px;
+  position: absolute;
+  left: 71%;
+  top: 90%;
+ }
+
+
+
+
+.line-1{
+  height: 1px;
+  background-color: black;
+  width:60%;
+  position: absolute;
+  left: 22%;
+  top: 125%;
+
+}
+
+.bottomlogo{
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 42%;
+  top: 135%;
+}
+
+h3{
+  position: absolute;
+  left: 39%;
+  top: 162%;
+  color: grey;
+  font-size: 2em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.fa-facebook-f{
+  position: absolute;
+  left: 45%;
+  top: 175%;
+  font-size: 2em;
+}
+
+.fa-instagram{
+  position: absolute;
+  left: 50%;
+  top: 175%;
+  font-size: 2em;
+}
+
+.fa-twitter{
+  position: absolute;
+  left: 55%;
+  top: 175%;
+  font-size: 2em;
+}
+
+
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 2em;
+  background-color: #b58e8e;
+  position: relative;
+  left: 0%;
+  top: 1050%;
+}
