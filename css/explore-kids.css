@@ -22,7 +22,6 @@ header {
 }
 
 nav ul {
-  width: max-content;
   display: inline-flex;
 }
 
