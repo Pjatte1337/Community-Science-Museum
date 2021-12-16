@@ -6,7 +6,7 @@ body {
   grid-template-rows: auto 1fr auto;
 }
 
-.main_logo {
+.main-logo {
   top: 1%;
   left: 1%;
   width: 100px;
@@ -27,6 +27,7 @@ nav ul {
 
 nav li {
   display: inline-block;
+  font-weight: bold;
   padding: 5%;
   position: relative;
   left: 900px;
@@ -43,8 +44,7 @@ nav li {
   font-style: italic;
 }
 
-
-.container{
+.container {
   width: 400px;
   height: 450px;
   background-color: #89b7e6;
@@ -53,15 +53,15 @@ nav li {
   top: 15%;
 }
 
-.headliner{
+.headliner {
   width: 300px;
   height: 400px;
   position: absolute;
-  left: 2%;
+  left: 10%;
   top: 2%;
 }
 
-.days{
+.days {
   width: 300px;
   height: 400px;
   position: absolute;
@@ -70,7 +70,7 @@ nav li {
   font-size: 1;
 }
 
-.time{
+.time {
   width: 300px;
   height: 400px;
   position: absolute;
@@ -78,7 +78,7 @@ nav li {
   top: 15%;
 }
 
-.container-map{
+.container-map {
   width: 1300px;
   height: 350px;
   background-color: grey;
@@ -87,7 +87,7 @@ nav li {
   top: 26%;
 }
 
-.map{
+.map {
   width: 1250px;
   height: 300px;
   position: absolute;
@@ -95,76 +95,72 @@ nav li {
   top: 8%;
 }
 
-.admission{
+.admission {
   position: absolute;
   left: 15%;
   top: 80%;
   font-size: 25px;
- }
+}
 
- .admission-text{
+.admission-text {
   width: 300px;
   position: absolute;
   left: 10%;
   top: 90%;
- }
+}
 
- .accessibility{
+.accessibility {
   position: absolute;
   left: 35%;
   top: 80%;
   font-size: 25px;
- }
+}
 
- .accessibility-text{
+.accessibility-text {
   width: 300px;
   position: absolute;
   left: 30%;
   top: 90%;
- }
+}
 
- .food{
+.food {
   position: absolute;
   left: 55%;
   top: 80%;
   font-size: 25px;
- }
+}
 
- .food-text{
+.food-text {
   width: 300px;
   position: absolute;
   left: 53%;
   top: 90%;
- }
+}
 
- .shops {
+.shops {
   position: absolute;
   left: 75%;
   top: 80%;
   font-size: 25px;
- }
+}
 
- .shops-text{
+.shops-text {
   width: 300px;
   position: absolute;
   left: 71%;
   top: 90%;
- }
+}
 
-
-
-
-.line-1{
+.line-1 {
   height: 1px;
   background-color: black;
-  width:60%;
+  width: 60%;
   position: absolute;
   left: 22%;
   top: 125%;
-
 }
 
-.bottomlogo{
+.bottom-logo {
   width: 300px;
   height: 300px;
   position: absolute;
@@ -172,44 +168,42 @@ nav li {
   top: 135%;
 }
 
-h3{
+h3 {
   position: absolute;
   left: 39%;
   top: 162%;
   color: grey;
   font-size: 2em;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.fa-facebook-f{
+.fa-facebook-f {
   position: absolute;
   left: 45%;
   top: 175%;
   font-size: 2em;
 }
 
-.fa-instagram{
+.fa-instagram {
   position: absolute;
   left: 50%;
   top: 175%;
   font-size: 2em;
 }
 
-.fa-twitter{
+.fa-twitter {
   position: absolute;
   left: 55%;
   top: 175%;
   font-size: 2em;
 }
 
-
-
 footer {
   text-align: center;
-  padding: 20px;
+  padding: 0px;
   font-size: 2em;
   background-color: #b58e8e;
   position: relative;
   left: 0%;
-  top: 1050%;
+  top: 2100%;
 }

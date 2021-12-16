@@ -27,6 +27,7 @@ nav ul {
 
 nav li {
   display: inline-block;
+  font-weight: bold;
   padding: 5%;
   position: relative;
   left: 900px;
@@ -39,9 +40,7 @@ nav li {
   padding: 5px;
 }
 
-
-
-.astronaut{
+.astronaut {
   width: 1000px;
   height: 350px;
   position: absolute;
@@ -53,8 +52,9 @@ nav li {
   background-color: #b58e8e;
   color: black;
   font-size: 1em;
+  font-weight: bold;
   text-transform: uppercase;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   padding: 10px 50px;
   border-radius: 5px;
   position: absolute;
@@ -62,24 +62,23 @@ nav li {
   top: 73%;
 }
 
-.explore{
+.explore {
   width: 1000px;
   position: absolute;
   left: 25%;
   top: 95%;
 }
 
-
-.line-1{
+.line-1 {
   height: 1px;
   background-color: black;
-  width:60%;
+  width: 60%;
   position: absolute;
   left: 22%;
   top: 125%;
 }
 
-.bottomlogo{
+.bottomlogo {
   width: 300px;
   height: 300px;
   position: absolute;
@@ -87,48 +86,45 @@ nav li {
   top: 135%;
 }
 
-h3{
+h3 {
   position: absolute;
   left: 39%;
   top: 162%;
   color: grey;
   font-size: 2em;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.fa-facebook-f{
+.fa-facebook-f {
   position: absolute;
   left: 45%;
   top: 175%;
   font-size: 2em;
 }
 
-.fa-instagram{
+.fa-instagram {
   position: absolute;
   left: 50%;
   top: 175%;
   font-size: 2em;
 }
 
-.fa-twitter{
+.fa-twitter {
   position: absolute;
   left: 55%;
   top: 175%;
   font-size: 2em;
 }
 
-
-
 footer {
   text-align: center;
-  padding: 20px;
+  padding: 0px;
   font-size: 2em;
   background-color: #b58e8e;
   position: relative;
   left: 0%;
-  top: 1050%;
+  top: 2100%;
 }
 
-@media (min-width: 600px){
-  
+@media (min-width: 600px) {
 }

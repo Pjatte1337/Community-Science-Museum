@@ -6,7 +6,7 @@ body {
   grid-template-rows: auto 1fr auto;
 }
 
-.main_logo {
+.main-logo {
   top: 1%;
   left: 1%;
   width: 100px;
@@ -27,6 +27,7 @@ nav ul {
 
 nav li {
   display: inline-block;
+  font-weight: bold;
   padding: 5%;
   position: relative;
   left: 900px;
@@ -39,15 +40,14 @@ nav li {
   padding: 5px;
 }
 
-.explore{
+.explore {
   width: 1000px;
   position: absolute;
   left: 25%;
   top: 20%;
 }
 
-
-.kreftor{
+.kreftor {
   width: 350px;
   height: 350px;
   position: absolute;
@@ -56,7 +56,7 @@ nav li {
   border-radius: 20%;
 }
 
-.kreftor-name{
+.kreftor-name {
   background-color: black;
   color: red;
   position: absolute;
@@ -68,7 +68,7 @@ nav li {
   font-size: 2em;
 }
 
-.kreftor-text{
+.kreftor-text {
   text-align: center;
   width: 300px;
   position: absolute;
@@ -77,7 +77,7 @@ nav li {
   background-color: #e9e9e9d2;
 }
 
-.garry-glass{
+.garry-glass {
   width: 350px;
   height: 350px;
   position: absolute;
@@ -86,7 +86,7 @@ nav li {
   border-radius: 20%;
 }
 
-.garry-glass-name{
+.garry-glass-name {
   background-color: black;
   color: red;
   position: absolute;
@@ -98,7 +98,7 @@ nav li {
   font-size: 2em;
 }
 
-.garry-glass-text{
+.garry-glass-text {
   text-align: center;
   width: 300px;
   position: absolute;
@@ -107,7 +107,7 @@ nav li {
   background-color: #e9e9e9d2;
 }
 
-.kevin-and-higgs{
+.kevin-and-higgs {
   width: 350px;
   height: 350px;
   position: absolute;
@@ -116,7 +116,7 @@ nav li {
   border-radius: 20%;
 }
 
-.kelvin-and-higgs-name{
+.kelvin-and-higgs-name {
   background-color: black;
   color: red;
   position: absolute;
@@ -128,7 +128,7 @@ nav li {
   font-size: 2em;
 }
 
-.kelvin-and-higgs-text{
+.kelvin-and-higgs-text {
   text-align: center;
   width: 300px;
   position: absolute;
@@ -137,13 +137,13 @@ nav li {
   background-color: #e9e9e9d2;
 }
 
-
 .cta-visit {
   background-color: #b58e8e;
   color: black;
   font-size: 1em;
+  font-weight: bold;
   text-transform: uppercase;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   padding: 10px 50px;
   border-radius: 5px;
   position: absolute;
@@ -151,19 +151,16 @@ nav li {
   top: 130%;
 }
 
-
-
-.line-1{
+.line-1 {
   height: 1px;
   background-color: black;
-  width:60%;
+  width: 60%;
   position: absolute;
   left: 22%;
   top: 145%;
-
 }
 
-.bottomlogo{
+.bottom-logo {
   width: 300px;
   height: 300px;
   position: absolute;
@@ -171,44 +168,41 @@ nav li {
   top: 150%;
 }
 
-h3{
+h3 {
   position: absolute;
   left: 39%;
   top: 178%;
   color: grey;
   font-size: 2em;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.fa-facebook-f{
+.fa-facebook-f {
   position: absolute;
   left: 45%;
   top: 187%;
   font-size: 2em;
 }
 
-.fa-instagram{
+.fa-instagram {
   position: absolute;
   left: 50%;
   top: 187%;
   font-size: 2em;
 }
 
-.fa-twitter{
+.fa-twitter {
   position: absolute;
   left: 55%;
   top: 187%;
   font-size: 2em;
 }
 
-
-
 footer {
   text-align: center;
-  padding: 20px;
+  padding: 0px;
   font-size: 2em;
   background-color: #b58e8e;
   position: relative;
-  left: 0%;
-  top: 1200%;
+  top: 2400%;
 }
