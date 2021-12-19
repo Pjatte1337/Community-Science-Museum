@@ -6,7 +6,7 @@ body {
   grid-template-rows: auto 1fr auto;
 }
 
-.main_logo {
+.main-logo {
   top: 1%;
   left: 1%;
   width: 100px;
@@ -94,7 +94,7 @@ li a {
   top: 125%;
 }
 
-.bottomlogo {
+.bottom-logo {
   width: 300px;
   height: 300px;
   position: absolute;
