@@ -6,7 +6,7 @@
  ---
 
 <div>
-  <img src="https://github.com/Pjatte1337/Community-Science-Museum/blob/main/images/semester.png"width="800" height="400"/> </img>
+  <img src="https://github.com/Pjatte1337/Community-Science-Museum/blob/main/images/semester.png"width="1200" height="400"/> </img>
 </div>
 
  ---
