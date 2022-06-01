@@ -38,7 +38,7 @@ The page should have at keast 4-6 pages, writing the code with semantic and neat
 
 ### Link to page
 <div>
-  <a href="https://app.netlify.com/sites/epic-heyrovsky-a8753d/overview"> Community Science Museum </a>
+  <a href="https://epic-heyrovsky-a8753d.netlify.app/"> Community Science Museum </a>
 </div>
 
 ---
