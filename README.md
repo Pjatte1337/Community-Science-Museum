@@ -26,7 +26,7 @@ The page should have at keast 4-6 pages, writing the code with semantic and neat
 
 ---
 
-### Design
+### Design Tools
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="XD" alt="XD" width="40" height="40"/>&nbsp;
 </p>
